@@ -57,6 +57,7 @@ break
 *)echo "invaild option";;
 esac
 done
+![Screenshot_2021-10-07-20-22-51-052_cn wps moffice_eng](https://user-images.githubusercontent.com/92073589/136562691-b9d975b9-6a25-480d-aa97-d27ace42a6fb.jpg)
 
 
 This script will create the following options in the instance like to delete, stop, start, create a particular instance.
