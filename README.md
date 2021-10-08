@@ -18,8 +18,10 @@ While creating an instances through the command line we can develope the equival
 The script is as follows in the bin bash :
 
 
-#! /bin/bash![IMG-20211008-WA0006](https://user-images.githubusercontent.com/92073589/136561305-7d61526d-3934-443c-97c7-b07b56584188.jpg)
+[IMG-20211008-WA0006](https://user-images.githubusercontent.com/92073589/136561305-7d61526d-3934-443c-97c7-b07b56584188.jpg)
+![IMG_20211008_184204](https://user-images.githubusercontent.com/92073589/136563542-a63c26b5-01d0-49eb-a0d9-69b7ccdb04bc.jpg)
 
+#! /bin/bash
  apt update
  apt -y install apache2
  cat <<EOF > /var/www/html/index.html
@@ -28,7 +30,9 @@ The script is as follows in the bin bash :
 This will update the system instance while creating the instance through command line. 
 Then while creating the instance we can add on  more scripts to make them vm more flexible. 
 Like for example we can delete, stop, create, start the instance from there itself. For that a startup script is needed. The script is as follows :
-![IMG-20211008-WA0006](https://user-images.githubusercontent.com/92073589/136561114-0cb4fe59-6936-43a1-a94d-0c8e9508b0b1.jpg)
+![IMG_20211008_184147](https://user-images.githubusercontent.com/92073589/136563335-399a69e1-b6ed-44e3-b203-4093e185d423.jpg)
+
+
 
 #!/bin/bash
 var='please enter your choice'
@@ -57,7 +61,8 @@ break
 *)echo "invaild option";;
 esac
 done
-![Screenshot_2021-10-07-20-22-51-052_cn wps moffice_eng](https://user-images.githubusercontent.com/92073589/136562691-b9d975b9-6a25-480d-aa97-d27ace42a6fb.jpg)
+
+![IMG_20211008_184230](https://user-images.githubusercontent.com/92073589/136563577-9861ce27-bb5b-4243-895e-e1515529bec5.jpg)
 
 
 This script will create the following options in the instance like to delete, stop, start, create a particular instance.
