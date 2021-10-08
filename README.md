@@ -19,6 +19,8 @@ The script is as follows in the bin bash :
 
 
 ![IMG-20211008-WA0006](https://user-images.githubusercontent.com/92073589/136561305-7d61526d-3934-443c-97c7-b07b56584188.jpg)
+![IMG_20211008_184833](https://user-images.githubusercontent.com/92073589/136564342-504d73d0-6279-48f9-8a37-5746d56e6e59.jpg)
+
 
 
 #! /bin/bash
