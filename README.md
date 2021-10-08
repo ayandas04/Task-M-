@@ -32,8 +32,9 @@ The script is as follows in the bin bash :
 This will update the system instance while creating the instance through command line. 
 Then while creating the instance we can add on  more scripts to make them vm more flexible. 
 Like for example we can delete, stop, create, start the instance from there itself. For that a startup script is needed. The script is as follows :
-![IMG_20211008_184147](https://user-images.githubusercontent.com/92073589/136563335-399a69e1-b6ed-44e3-b203-4093e185d423.jpg)
- ![IMG_20211008_184833](https://user-images.githubusercontent.com/92073589/136564228-5143b549-ad1d-4d5e-b3fc-09aa0a030e2b.jpg)
+![IMG_20211008_184147](https://user-images.githubusercontent.com/92073589/136564684-7b986d57-aa4c-4918-bbfb-9f506d9052b0.jpg)
+
+ 
 
 
 
