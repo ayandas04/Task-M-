@@ -18,7 +18,7 @@ While creating an instances through the command line we can develope the equival
 The script is as follows in the bin bash :
 
 
-[IMG-20211008-WA0006](https://user-images.githubusercontent.com/92073589/136561305-7d61526d-3934-443c-97c7-b07b56584188.jpg)
+![IMG-20211008-WA0006](https://user-images.githubusercontent.com/92073589/136561305-7d61526d-3934-443c-97c7-b07b56584188.jpg)
 ![IMG_20211008_184204](https://user-images.githubusercontent.com/92073589/136563542-a63c26b5-01d0-49eb-a0d9-69b7ccdb04bc.jpg)
 
 #! /bin/bash
