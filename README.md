@@ -66,3 +66,4 @@ done
 
 
 This script will create the following options in the instance like to delete, stop, start, create a particular instance.
+.
