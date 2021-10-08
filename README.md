@@ -71,4 +71,6 @@ done
 
 
 This script will create the following options in the instance like to delete, stop, start, create a particular instance.
+ Then one can choose any option from those given options. 
+ Scripts are very helpful in CLI. 
 .
