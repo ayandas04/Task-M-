@@ -1,0 +1,7 @@
+Metadata is "data that provides information about other data",[1] but not the content of the data, such as the text of a message or the image itself. There are many distinct types of metadata, including
+
+What is matadata in GCE? Google Cloud Platform provides a metadata server that knows details about your App Engine instance, such as its containing project ID, service accounts, and tokens used by the service accounts. You can access this data using simple HTTP requests: no client libraries are required.
+
+Why it's is used in GCE? The metadata server provides information about a VMs scheduling option through the scheduling/ metadata directory entry and the maintenance-event attribute. You can use these metadata values to notify you when a maintenance event is about to happen so that you can prepare your environment for the event.
+
+What is a startup script?? A startup script is a file that performs tasks during the startup process of a virtual machine (VM) instance. Startup scripts can apply to all VMs in a project or to a single VM. Startup scripts specified by VM-level metadata override startup scripts specified by project-level metadata, and startup scripts only run when a network is available. This document describes how to use startup scripts on Linux VM instances. For information about how to add a project-level startup script, see gcloud compute project-info add-metadata.
